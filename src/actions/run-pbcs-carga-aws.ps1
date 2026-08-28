@@ -1,4 +1,4 @@
-. "$ProjectRoot\..\config\get-project-config.ps1"
+. "$PSScriptRoot\..\config\get-project-config.ps1"
 
 $config = Get-ProjectConfig
 
