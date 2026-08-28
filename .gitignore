@@ -1,0 +1,5 @@
+
+project.config.psd1
+*.log
+*.tmp
+*.bak
